@@ -1,2 +1,4 @@
 # Fatiar_Arquivos_Excel
-Faz fatiamento do arquivo todo dividindo na quantidade de linhas desejada.
+Fragmenta o arquivo principal por varios dependendo da quantidade de linhas desejadas.
+
+## OBS.: não testado com arquivos xlsx, xlsm, etc.
